@@ -1,0 +1,46 @@
+.tablecolor{
+    color:white;
+    margin-top: 50px;
+}
+
+#buttontext{
+    background-color: black;
+    color:white
+}
+
+#buttontext:active{
+    
+    background-color: black;
+}
+
+#buttontext:hover{
+    background-color: transparent;
+
+}
+
+
+#buttondeletetext{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    
+}
+
+#buttondeletetext:hover{
+    background-color: transparent;
+    border-color: red;
+    color: rgb(255, 255, 255);
+}
+
+.headingcol{
+    color:#0cf5c2;
+}
+
+#buttontextview{
+    background-color:grey;
+   
+    color:white;
+}
+
+#buttontextview:hover{
+    background-color:transparent;
+}

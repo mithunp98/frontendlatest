@@ -1,0 +1,35 @@
+.Auth-form-content{
+    padding-left: 650px;
+    padding-right: 650px;
+    padding-top: 200px;
+}
+
+.link{
+    display: inline;
+    color: rgb(0, 247, 255);
+}
+
+#logbox{
+    border-radius: 1rem;
+    width:450px;
+    height:720px
+}
+
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+    }
+
+#icons{
+    margin-left: 25px;
+    padding-left: 20px;
+    position: relative;
+    left: -20px;
+    top: 15px;
+}
